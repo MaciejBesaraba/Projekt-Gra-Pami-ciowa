@@ -1,0 +1,10 @@
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\bin\Debug\grawpamiec2.exe.config
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\bin\Debug\grawpamiec2.exe
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\bin\Debug\grawpamiec2.pdb
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.csprojAssemblyReference.cache
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.Form1.resources
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.Properties.Resources.resources
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.csproj.GenerateResource.cache
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.csproj.CoreCompileInputs.cache
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.exe
+C:\Users\Parch\source\repos\grawpamiec2\grawpamiec2\obj\Debug\grawpamiec2.pdb
